@@ -1,0 +1,23 @@
+Project Title:
+CookSnap – Smart Recipe Recommendation System Using Grocery Images
+
+Problem Description:
+Many individuals, especially students and working professionals, face difficulty in deciding what to cook using the groceries available at home. 
+This often results in repeated meals, wastage of food items, and time spent searching for suitable recipes across multiple platforms. Users may have ingredients available but
+lack clarity on how to combine them into a proper dish. Additionally, manual searching does not provide personalized or efficient recommendations based on actual available ingredients.
+
+Proposed Solution:
+The proposed CookSnap system is an AI-based digital solution designed to recommend recipes using grocery images.
+Users can upload a photo of their available groceries, and the system will automatically detect the ingredients using image recognition techniques. 
+Based on the identified ingredients, CookSnap suggests relevant recipes along with preparation steps. This system simplifies the cooking decision process,
+reduces food wastage, and saves time by providing accurate and instant recipe recommendations.
+
+Target Users:
+Home Cooks and Students: To easily decide what to cook using available groceries.
+Working Professionals: To save time and plan meals efficiently.
+Beginner Cooks: To receive guided recipe suggestions based on available ingredients.
+
+Value Proposition:
+CookSnap adds significant value by simplifying meal planning, reducing food wastage, and improving cooking efficiency. 
+It provides intelligent, ingredient-based recipe recommendations, ensuring better utilization of available groceries. By replacing manual recipe searches with an 
+automated and smart solution, CookSnap enhances user convenience and supports healthier and more organized cooking practices.
