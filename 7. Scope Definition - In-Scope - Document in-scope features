@@ -1,0 +1,29 @@
+The in-scope features define the functionalities that are included in CookSnap – 
+Smart Recipe Recommendation System Using Grocery Images. These features are essential for enabling users to identify available groceries and receive suitable 
+recipe recommendations efficiently.
+
+In-Scope Features
+
+Grocery Image Upload:
+Users can upload images of available groceries using the system.
+
+Ingredient Detection:
+The system automatically identifies grocery items from the uploaded images using image recognition techniques.
+
+Recipe Recommendation:
+Based on the detected ingredients, the system suggests relevant and suitable recipes.
+
+Recipe Details Display:
+Users can view detailed recipe information including ingredients and preparation steps.
+
+Filtering Options:
+Users can filter recipes based on preferences such as vegetarian or non-vegetarian options.
+
+User Authentication:
+Secure login and access control for registered users.
+
+User-Friendly Interface:
+A simple and intuitive interface for easy interaction with the system.
+
+Basic Usage Statistics:
+The system provides basic statistics such as number of recipes viewed or recommended.
