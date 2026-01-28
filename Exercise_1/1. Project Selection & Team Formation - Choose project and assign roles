@@ -1,0 +1,13 @@
+The project selected for this course is “CookSnap – Smart Recipe Recommendation System Using Grocery Images.”
+The project aims to address common issues such as difficulty in deciding what to cook, food wastage due to unused groceries, and time spent searching for suitable recipes. 
+CookSnap introduces an AI-based digital solution that identifies available groceries from images and recommends appropriate recipes.
+
+This project was chosen because it solves a real-world problem using software engineering principles and demonstrates the practical 
+application of system analysis, requirement specification, and system design using UML diagrams and CASE tools.
+
+|   Team Member          |   Reg. No        |   Assigned Role    |   Responsibilities                                                                                |
+| ---------------------- | ---------------- | ------------------ | ------------------------------------------------------------------------------------------------- |
+| Dheerajnath Chowdary P | 2023BCSE07AED068 | Project Manager    | Project planning, task allocation, progress tracking, coordination among team members             |
+| Jagili Sreeja          | 2023BCSE07AED015 | Documentation Lead | Preparation of SRS, design documents, reports, and maintaining documentation consistency          |
+| Shashikala N           | 2023BCSE07AED057 | Lead Developer     | System design logic, module planning, and technical implementation guidance                       |
+| Y Konda Reddy          | 2023BCSE07AED044 | QA Lead            | Requirement verification, review of documents, quality assurance, and validation of system design |
