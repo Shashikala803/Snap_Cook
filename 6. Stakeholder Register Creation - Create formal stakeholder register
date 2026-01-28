@@ -1,0 +1,8 @@
+|   Stakeholder                                           |   Role            |   Interests                                                   |   Influence Level   |
+| ------------------------------------------------------- | ----------------- | ------------------------------------------------------------- | ------------------- |
+| End Users (Home Cooks, Students, Working Professionals) | End Users         | Quick recipe suggestions, reduced food wastage, ease of use   | Medium              |
+| System Developers / Project Team                        | System Developers | System accuracy, performance, successful project completion   | High                |
+| Project Instructor / Evaluator                          | System Evaluator  | Requirement correctness, documentation quality, system design | High                |
+| Recipe Data Providers / Content Sources                 | Data Providers    | Proper usage and representation of recipe data                | Medium              |
+| Platform Administrators / Hosting Providers             | Technical Support | System availability, security, scalability                    | Medium              |
+| Future Maintainers / Researchers                        | Maintainers       | Clear documentation, modular and extensible design            | Low to Medium       |
