@@ -1,0 +1,28 @@
+Stakeholder Analysis:
+Stakeholder analysis involves identifying individuals or groups who have an interest in or are affected by the CookSnap –
+Smart Recipe Recommendation System Using Grocery Images. These stakeholders are categorized as primary and secondary based on their level of direct involvement
+with the system.
+
+Primary Stakeholders:
+Primary stakeholders are those who directly interact with and are most affected by the system.
+
+End Users (Home Cooks, Students, and Working Professionals)
+Users interact with CookSnap to upload grocery images, view detected ingredients, and receive recipe recommendations. Their main interest is saving time, reducing food wastage, and receiving accurate and easy-to-follow cooking suggestions.
+
+System Developers / Project Team
+Developers are responsible for designing, implementing, and maintaining the CookSnap system. Their interest lies in ensuring system accuracy, usability, performance, and successful project delivery.
+
+Project Instructor / Evaluator
+The instructor evaluates the system based on requirement completeness, design quality, and correct application of software engineering principles.
+
+Secondary Stakeholders:
+Secondary stakeholders do not interact with the system on a daily basis but are indirectly affected by its implementation and outcomes.
+
+Recipe Data Providers / Content Sources
+These stakeholders provide recipe datasets used by the system. Their interest is proper usage and representation of recipe content.
+
+Platform Administrators / Hosting Providers
+They are responsible for hosting, system availability, scalability, and basic infrastructure support.
+
+Future Maintainers or Researchers
+Individuals who may extend or enhance the system in the future benefit from clear documentation and modular system design.
