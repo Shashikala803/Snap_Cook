@@ -1,0 +1,31 @@
+Stakeholder Interests Documentation:
+
+Stakeholder interests documentation identifies the expectations, needs, and level of influence of each stakeholder involved in CookSnap –
+Smart Recipe Recommendation System Using Grocery Images. Understanding these interests helps in designing a system that satisfies user requirements and 
+ensures successful project implementation.
+
+Stakeholder Interests and Influence
+
+• End Users (Home Cooks, Students, Working Professionals):
+Interests: Quick recipe suggestions, accurate ingredient detection, reduced food wastage, ease of use
+Influence: Medium – User feedback impacts system usability and acceptance
+
+• System Developers / Project Team:
+Interests: System accuracy, performance, maintainability, and successful project completion
+Influence: High – Responsible for design, development, and implementation
+
+• Project Instructor / Evaluator:
+Interests: Correct requirement analysis, proper documentation, and application of software engineering principles
+Influence: High – Approves requirements and evaluates project quality
+
+• Recipe Data Providers / Content Sources:
+Interests: Proper use, attribution, and representation of recipe data
+Influence: Medium – Data quality affects recommendation accuracy
+
+• Platform Administrators / Hosting Providers:
+Interests: System availability, scalability, security, and reliability
+Influence: Medium – Ensure stable system operation
+
+• Future Maintainers or Researchers:
+Interests: Clear documentation, modular design, and ease of system extension
+Influence: Low to Medium – Indirect impact on long-term system evolution
