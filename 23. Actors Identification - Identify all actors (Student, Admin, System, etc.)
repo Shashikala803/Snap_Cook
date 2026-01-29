@@ -1,0 +1,18 @@
+Actors represent external entities that interact with CookSnap – Smart Recipe Recommendation System Using Grocery Images.
+Identifying actors helps in understanding system interactions and defining appropriate use cases.
+
+The following actors have been identified:
+
+User (Home Cook / Student / Working Professional)
+Initiates grocery image upload, views detected ingredients, receives recipe recommendations, and filters recipes based on preferences.
+
+Admin (System Administrator)
+Manages recipe data, monitors system usage, manages user access, and generates basic system reports.
+
+Image Recognition System (AI Module)
+Processes uploaded grocery images and detects ingredients using image recognition techniques.
+
+Notification System
+Sends alerts or messages to users regarding successful image upload, recipe availability, or system responses.
+
+These actors interact with the CookSnap system to ensure efficient ingredient detection, accurate recipe recommendation, and smooth overall system operation.
