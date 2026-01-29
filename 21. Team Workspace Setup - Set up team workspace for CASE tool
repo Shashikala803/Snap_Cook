@@ -1,0 +1,13 @@
+A dedicated workspace was created within the CASE tool environment to support collaborative design and an organized project structure for CookSnap –
+Smart Recipe Recommendation System Using Grocery Images.
+
+Workspace Setup Includes:
+
+A separate project file created specifically for the CookSnap system design
+
+Organized folders for different UML diagrams such as use case, class, sequence, activity, component, and deployment diagrams
+
+Clear and consistent naming conventions for diagrams, classes, and components
+
+The workspace is structured to allow easy navigation, collaboration, and future updates to system diagrams. This setup supports effective
+teamwork and ensures consistency and maintainability across all design artifacts of the CookSnap project.
