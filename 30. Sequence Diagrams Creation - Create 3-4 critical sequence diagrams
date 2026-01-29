@@ -1,0 +1,16 @@
+Sequence diagrams represent the chronological interaction between actors and system components for specific system operations. 
+In CookSnap – Smart Recipe Recommendation System Using Grocery Images, sequence diagrams are used to visualize how users, administrative components, 
+and the system interact during recipe recommendation processes.
+
+The following sequence diagrams are created to capture critical system processes:
+
+Grocery Image Upload Process
+
+Ingredient Detection Process
+
+Recipe Recommendation Process
+
+Administrative System Monitoring Process
+
+These sequence diagrams help developers and stakeholders clearly understand the internal workflow, interaction order, and responsibilities 
+of each system component within the CookSnap system.
