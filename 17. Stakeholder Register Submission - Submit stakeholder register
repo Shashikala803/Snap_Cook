@@ -1,0 +1,17 @@
+The stakeholder register is a formal document that identifies all stakeholders involved in CookSnap – Smart Recipe Recommendation System Using Grocery Images, 
+along with their roles, interests, and influence levels. This register helps in understanding stakeholder expectations and managing their involvement throughout the project
+lifecycle.
+
+
+
+|   Stakeholder                                           |   Role            |   Interests                                                    |   Influence Level   |
+| ------------------------------------------------------- | ----------------- | -------------------------------------------------------------- | ------------------- |
+| End Users (Home Cooks, Students, Working Professionals) | End Users         | Easy recipe discovery, reduced food wastage, time efficiency   | Medium              |
+| Project Team / Developers                               | System Developers | System accuracy, performance, and successful project delivery  | High                |
+| Project Instructor / Evaluator                          | Project Evaluator | Requirement completeness, documentation quality, system design | High                |
+| Recipe Data Providers                                   | Content Providers | Proper usage and representation of recipe data                 | Medium              |
+| Platform / Hosting Support                              | Technical Support | System availability, reliability, and security                 | Medium              |
+| Future Maintainers / Researchers                        | Maintainers       | Clear documentation and extensible system design               | Low to Medium       |
+
+The stakeholder register is reviewed and approved to ensure that all relevant stakeholders are identified and that their expectations are considered throughout the
+development of the CookSnap system.
