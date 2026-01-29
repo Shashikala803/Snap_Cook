@@ -1,0 +1,41 @@
+Scope Boundaries
+
+The scope boundaries define the limits of CookSnap – Smart Recipe Recommendation System Using Grocery Images by clearly 
+specifying what the system will and will not do. This helps avoid ambiguity and ensures that the project remains focused on its intended objectives.
+
+Included Within Scope
+
+Uploading images of available groceries by users
+
+Automatic detection of ingredients using image recognition
+
+Recommendation of suitable recipes based on detected ingredients
+
+Display of recipe details including ingredients and preparation steps
+
+Basic filtering of recipes (e.g., vegetarian / non-vegetarian)
+
+User authentication and access control
+
+Basic usage statistics and system monitoring
+
+Excluded from Scope
+
+Online grocery purchasing, payment processing, or delivery services
+
+Personalized dietary, nutritional, or medical advice
+
+Live cooking classes or video-based tutorials
+
+Advanced meal planning and scheduling features
+
+Integration with smart kitchen appliances or IoT devices
+
+Advanced analytics, calorie tracking, or nutrition forecasting
+
+Integration with third-party e-commerce or food delivery platforms
+
+System Boundaries
+
+The CookSnap system operates as a standalone software application focused solely on identifying groceries from images and recommending appropriate recipes.
+It functions as a decision-support tool for meal planning and does not replace professional nutritional advice or provide health-related recommendations.
