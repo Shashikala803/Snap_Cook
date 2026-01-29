@@ -1,0 +1,75 @@
+Project Title
+
+CookSnap – Smart Recipe Recommendation System Using Grocery Images
+
+Project Overview
+CookSnap is a software-based solution aimed at assisting users in deciding what to cook using the groceries available at home.
+The system replaces manual recipe searching with an AI-driven approach that uses grocery images to detect ingredients and recommend suitable recipes. 
+By leveraging image recognition and intelligent recommendation techniques, CookSnap helps reduce food wastage, save time, and simplify meal planning for users
+such as students, working professionals, and home cooks.
+
+Project Objectives
+-> The primary objectives of this project are:
+-> To help users decide recipes using available groceries
+-> To reduce food wastage caused by unused ingredients
+-> To minimize time spent searching for suitable recipes
+-> To provide accurate and easy-to-follow recipe recommendations
+-> To assist beginner cooks with guided cooking suggestions
+-> To develop a reliable and user-friendly system using software engineering principles
+
+Project Scope
+The scope of this project includes the design and development of CookSnap, which supports:
+Uploading grocery images by users
+Automatic detection of ingredients using image recognition
+Recommendation of suitable recipes based on detected ingredients
+Display of recipe details including preparation steps
+Basic filtering options (e.g., vegetarian / non-vegetarian)
+
+Administrative monitoring and basic usage reports
+The system is strictly limited to recipe recommendation and does not support grocery purchasing, delivery,
+or dietary/medical advice.
+
+Stakeholders
+
+The key stakeholders involved in the project include:
+End Users (Home Cooks, Students, Working Professionals) – Use the system to get recipe recommendations
+Project Team / Developers – Design, develop, and maintain the system
+Project Instructor / Evaluator – Reviews and evaluates project progress and quality
+Recipe Data Providers – Supply recipe content used by the system
+Platform / Hosting Support – Ensure system availability and stability
+
+Project Deliverables
+
+The major deliverables of the project are:
+Software Requirements Specification (SRS) document
+Use Case Diagrams
+Class Diagram
+Sequence Diagrams
+Activity Diagrams
+Component Diagram
+Deployment Diagram
+System Design Document
+Final Mini Project Report
+Assumptions
+Users have access to smartphones or computers with camera support
+Users possess basic knowledge of using web or mobile applications
+Internet connectivity is available for image processing and recipe retrieval
+The system is used only for recipe recommendation purposes
+
+Constraints
+The system does not integrate with grocery delivery or payment systems
+Health, nutrition, or medical advice is outside the project scope
+Accuracy depends on image quality and dataset limitations
+Project development is restricted to the academic timeline
+
+Risks
+Poor image quality may reduce ingredient detection accuracy
+Limited dataset may affect recipe variety
+Performance issues due to limited server resources
+Constraints on scalability due to academic project limitations
+
+Project Timeline (High-Level)
+Requirement Analysis & SRS: Week 1–2
+System Design & UML Diagrams: Week 3–4
+Documentation & Review: Week 5
+Final Submission: Week 6
