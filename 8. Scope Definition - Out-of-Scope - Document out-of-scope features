@@ -1,0 +1,25 @@
+The out-of-scope features define the functionalities that are not included in CookSnap – Smart Recipe Recommendation System Using Grocery Images.
+These limitations help maintain a clear project boundary and prevent scope creep.
+
+Out-of-Scope Features
+
+Online Grocery Purchasing or Delivery
+The system will not support online grocery ordering, payment processing, or home delivery services.
+
+User Dietary Consultation or Medical Advice
+Personalized health, nutrition, or medical recommendations are not provided.
+
+Live Cooking Classes or Video Tutorials
+Real-time cooking sessions or instructional videos are excluded.
+
+Advanced Meal Planning and Scheduling
+Weekly or monthly meal planning and reminders are not supported.
+
+Integration with Smart Kitchen Appliances
+The system will not connect with IoT devices or smart kitchen equipment.
+
+Advanced Analytics and AI Predictions
+Complex analytics such as calorie tracking, nutrition forecasting, or consumption prediction are not included.
+
+Third-Party E-Commerce or Food Delivery Integration
+Integration with external food delivery or e-commerce platforms is excluded.
