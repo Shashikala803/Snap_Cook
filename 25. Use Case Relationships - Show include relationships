@@ -1,0 +1,19 @@
+Use Case Relationships
+
+Use case relationships illustrate how different use cases are connected using include and extend relationships in CookSnap – Smart Recipe Recommendation System Using Grocery Images.
+
+User Authentication is included in:
+
+Manage Recipe Database
+
+Generate Usage Reports
+
+Detect Ingredients is included in:
+
+Get Recipe Recommendations
+
+Get Recipe Recommendations extends:
+
+Upload Grocery Image
+
+These relationships help in modularizing system functionality and reducing redundancy within the CookSnap system.
