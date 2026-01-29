@@ -1,0 +1,42 @@
+1. Product Perspective
+
+CookSnap is a standalone, web-based application designed to recommend recipes based on grocery images provided by users. 
+The system can be accessed through web browsers or mobile devices. It operates independently and does not integrate with online grocery platforms. 
+CookSnap functions as a decision-support tool to assist users in meal planning using available ingredients.
+
+2. Product Functions
+
+The major functions of the CookSnap system include:
+
+Uploading images of available groceries
+
+Automatic detection of ingredients using image recognition
+
+Recommendation of suitable recipes based on detected ingredients
+
+Display of recipe details including preparation steps
+
+Basic filtering of recipes (e.g., vegetarian / non-vegetarian)
+
+User authentication and basic system monitoring
+
+3. User Characteristics
+
+End Users (Home Cooks, Students, Working Professionals):
+Basic familiarity with smartphones or web applications.
+
+System Administrators:
+Basic knowledge of managing user access and monitoring system usage.
+
+Developers / Maintainers:
+Technical knowledge of web applications, databases, and AI models.
+
+4. Constraints
+
+The system requires a stable internet connection for image processing and recipe retrieval.
+
+Accuracy of ingredient detection depends on image quality and dataset limitations.
+
+The system is limited to recipe recommendation and does not provide dietary or medical advice.
+
+Performance is dependent on server resources and model efficiency.
