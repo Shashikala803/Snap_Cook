@@ -1,0 +1,10 @@
+|   Class Name             |   Attributes                                              |  Methods                                                           |
+| ------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------ |
+|   User                   | userId<br>userType<br>loginStatus                         | login()<br>uploadImage()<br>viewRecipes()<br>receiveNotification() |
+|   GroceryImage           | imageId<br>imagePath<br>uploadTime                        | uploadImage()<br>validateImage()                                   |
+|   Ingredient             | ingredientId<br>ingredientName                            | detectIngredient()<br>getIngredientDetails()                       |
+|   Recipe                 | recipeId<br>recipeName<br>ingredientsList<br>instructions | getRecipeDetails()<br>displayRecipe()                              |
+|   RecipeRecommendation   | recommendationId<br>matchedIngredients                    | generateRecommendation()<br>filterRecipes()                        |
+|   Admin                  | adminId<br>accessLevel                                    | manageRecipes()<br>manageUsers()<br>generateReport()               |
+|   Notification           | notificationId<br>messageContent                          | sendNotification()                                                 |
+|   Report                 | reportId<br>reportType<br>reportData                      | createReport()<br>viewReport()                                     |
