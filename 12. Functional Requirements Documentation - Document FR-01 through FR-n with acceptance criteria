@@ -1,0 +1,98 @@
+Functional Requirements
+
+The functional requirements describe what CookSnap – Smart Recipe Recommendation System Using Grocery Images must do to support ingredient 
+detection and recipe recommendation.
+
+FR-01: Grocery Image Upload
+
+Description:
+The system shall allow users to upload images of available groceries.
+
+Acceptance Criteria:
+
+User can successfully upload an image
+
+Uploaded image is stored for processing
+
+System validates supported image formats
+
+FR-02: Ingredient Detection
+
+Description:
+The system shall automatically detect grocery items from the uploaded image using image recognition techniques.
+
+Acceptance Criteria:
+
+Detected ingredients are displayed to the user
+
+Ingredient list is generated accurately
+
+Detection process completes successfully
+
+FR-03: Recipe Recommendation
+
+Description:
+The system shall recommend suitable recipes based on the detected ingredients.
+
+Acceptance Criteria:
+
+Recommended recipes match detected ingredients
+
+At least one relevant recipe is displayed
+
+Recommendations are updated based on ingredient changes
+
+FR-04: Recipe Details Display
+
+Description:
+The system shall display detailed information for selected recipes.
+
+Acceptance Criteria:
+
+Recipe ingredients and preparation steps are shown
+
+Instructions are clear and easy to understand
+
+FR-05: Recipe Filtering
+
+Description:
+The system shall allow users to filter recipes based on preferences.
+
+Acceptance Criteria:
+
+User can apply filters (e.g., vegetarian / non-vegetarian)
+
+Filtered results update correctly
+
+FR-06: User Authentication
+
+Description:
+The system shall provide secure login access for registered users and administrators.
+
+Acceptance Criteria:
+
+Only authorized users can log in
+
+Invalid login attempts are rejected
+
+FR-07: Admin Dashboard Access
+
+Description:
+The system shall provide an admin dashboard for system monitoring and management.
+
+Acceptance Criteria:
+
+Admin can view system usage statistics
+
+Admin can manage recipe data and user access
+
+FR-08: Basic Report Generation
+
+Description:
+The system shall generate basic system reports.
+
+Acceptance Criteria:
+
+Reports include number of users and recipes viewed
+
+Reports can be viewed or downloaded
