@@ -1,0 +1,21 @@
+1. Purpose
+
+The purpose of this Software Requirements Specification (SRS) document is to define the functional and non-functional requirements of CookSnap –
+Smart Recipe Recommendation System Using Grocery Images. This document serves as a reference for developers, testers, project managers, and other stakeholders to 
+understand the system behavior, features, constraints, and requirements before the development process begins.
+
+2. Scope
+
+CookSnap is designed to assist users in identifying suitable recipes based on the groceries available to them. The system allows users to upload images of groceries,
+automatically detect ingredients using image recognition techniques, and recommend appropriate recipes along with preparation steps. The system focuses on simplifying
+meal planning, reducing food wastage, and saving user time. CookSnap does not support grocery purchasing, payment processing, or health-related dietary recommendations.
+
+|   Term / Acronym          |   Description                                              |
+| ------------------------- | ---------------------------------------------------------- |
+| **SRS**                   | Software Requirements Specification                        |
+| **Ingredient Detection**  | Process of identifying grocery items from uploaded images  |
+| **Recipe Recommendation** | Suggestion of recipes based on detected ingredients        |
+| **User**                  | Individual using the CookSnap system                       |
+| **Admin**                 | Person responsible for system configuration and monitoring |
+| **AI**                    | Artificial Intelligence                                    |
+| **UI**                    | User Interface                                             |
