@@ -1,0 +1,3 @@
+The use case diagram illustrates the interactions between Users (Home Cooks, Students, and Working Professionals) and Admin with the CookSnap – 
+Smart Recipe Recommendation System Using Grocery Images. It defines the system boundaries and shows how each actor accesses specific functionalities such as grocery
+image upload, ingredient detection, recipe recommendation, and system management.
