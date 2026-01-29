@@ -1,0 +1,23 @@
+Use Case Definition
+
+Based on the identified actors, the core use cases of CookSnap – Smart Recipe Recommendation System Using Grocery Images are defined as follows:
+
+Upload Grocery Image
+
+Detect Ingredients
+
+View Detected Ingredients
+
+Get Recipe Recommendations
+
+View Recipe Details
+
+Filter Recipes
+
+User Authentication
+
+Manage Recipe Database
+
+Generate Usage Reports
+
+These use cases collectively describe the primary functionalities of the CookSnap system.
