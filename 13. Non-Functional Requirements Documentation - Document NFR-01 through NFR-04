@@ -1,0 +1,43 @@
+Non-Functional Requirements
+
+Non-functional requirements define the quality attributes and performance standards of CookSnap – Smart Recipe Recommendation System Using Grocery Images.
+
+NFR-01: Performance
+
+The system shall respond to user actions such as image upload, ingredient detection, and recipe recommendation within acceptable time limits.
+
+Acceptance Criteria:
+
+Image upload response time ≤ 3 seconds
+
+Ingredient detection and recipe recommendation completed within acceptable processing time
+
+NFR-02: Security
+
+The system shall ensure secure access and protect user data.
+
+Acceptance Criteria:
+
+Secure login for users and administrators
+
+Unauthorized access to system features is prevented
+
+NFR-03: Reliability & Availability
+
+The system shall be available to users with minimal downtime.
+
+Acceptance Criteria:
+
+System availability of at least 99%
+
+Graceful handling of errors and automatic recovery from minor failures
+
+NFR-04: Usability
+
+The system shall be easy to use by all categories of users.
+
+Acceptance Criteria:
+
+Simple and intuitive user interface
+
+Minimal learning effort required for first-time users
