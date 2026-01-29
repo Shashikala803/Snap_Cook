@@ -1,0 +1,17 @@
+|   Term                                 |   Description                                                                 |
+| -------------------------------------- | ----------------------------------------------------------------------------- |
+|   CookSnap                             | An AI-based system that recommends recipes using grocery images               |
+|   Smart Recipe Recommendation System   | A digital system that suggests suitable recipes based on detected ingredients |
+|   User                                 | A person (home cook, student, or working professional) using the system       |
+|   Grocery Image                        | An image uploaded by the user containing available food items                 |
+|   Ingredient Detection                 | Process of identifying grocery items from an uploaded image                   |
+|   Recipe Recommendation                | Suggestion of recipes based on detected ingredients                           |
+|   Recipe Details                       | Information about a recipe including ingredients and preparation steps        |
+|   Filter Recipes                       | Feature that allows users to refine recipes based on preferences              |
+|   Admin                                | Authorized person who manages system data and monitors usage                  |
+|   Dashboard                            | Admin interface used to manage recipes and view system statistics             |
+|   Notification                         | Alert or message shown to the user regarding system actions                   |
+|   SRS                                  | Software Requirements Specification document                                  |
+|   UI (User Interface)                  | The visual interface through which users interact with CookSnap               |
+|   Authentication                       | Process of verifying user identity before accessing the system                |
+|   Report                               | Summary of system usage statistics such as recipes viewed or users active     |
