@@ -1,0 +1,19 @@
+For the design phase of CookSnap – Smart Recipe Recommendation System Using Grocery Images, a Computer-Aided Software Engineering (CASE)
+tool was selected to create and manage system diagrams efficiently.
+
+Selected CASE Tool: StarUML
+
+StarUML was installed and configured on the development system to support UML-based modeling. The tool is used to design various system diagrams 
+including use case diagrams, class diagrams, sequence diagrams, activity diagrams, component diagrams, and deployment diagrams.
+
+The CASE tool enables:
+
+Use of standard UML notation
+
+Clear visualization of system design
+
+Easy modification and version control of diagrams
+
+Improved understanding of overall system architecture
+
+The successful installation and configuration of the CASE tool ensures a structured and systematic approach to the design and documentation of the CookSnap system.
