@@ -1,0 +1,42 @@
+The project structure within the CASE tool was designed to logically organize all UML diagrams related to CookSnap –
+Smart Recipe Recommendation System Using Grocery Images.
+
+Project Structure Created
+
+Use Case Diagrams
+
+User Use Cases
+
+Admin Use Cases
+
+Class Diagrams
+
+Core System Classes
+
+Supporting Classes
+
+Sequence Diagrams
+
+Grocery Image Upload Flow
+
+Ingredient Detection Flow
+
+Recipe Recommendation Flow
+
+Admin Management Flow
+
+Activity Diagrams
+
+User Activity Flow
+
+Admin Workflow
+
+Component Diagram
+
+System Architecture Components
+
+Deployment Diagram
+
+System Deployment Environment
+
+This structured approach ensures clarity, maintainability, and ease of understanding of the overall system design of the CookSnap project.
