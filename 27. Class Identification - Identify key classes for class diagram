@@ -1,0 +1,22 @@
+Class Identification
+
+Classes represent the key entities of CookSnap – Smart Recipe Recommendation System Using Grocery Images. 
+Based on the system requirements and identified use cases, the following core classes have been identified:
+
+User
+
+GroceryImage
+
+Ingredient
+
+Recipe
+
+RecipeRecommendation
+
+Admin
+
+Notification
+
+Report
+
+These classes collectively model the structure, data, and behavior of the CookSnap system and serve as the foundation for the class diagram and further system design.
