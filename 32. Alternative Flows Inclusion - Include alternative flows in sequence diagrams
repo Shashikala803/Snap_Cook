@@ -1,0 +1,26 @@
+Alternative Flows
+
+Alternative flows represent exceptional or error conditions that may occur during normal operation of CookSnap – Smart Recipe Recommendation System
+Using Grocery Images and describe how the system handles them gracefully.
+
+Alternative Flow 1: No Matching Recipes Found
+
+If the system is unable to find recipes matching the detected ingredients, it displays a message informing the user that no suitable recipes are available 
+and may suggest uploading a different image or adding more ingredients.
+
+Alternative Flow 2: System Unavailability
+
+If the system is temporarily unavailable due to server or network issues, image uploads and recipe requests are not processed, and an appropriate error
+notification is shown to the user.
+
+Alternative Flow 3: Ingredient Detection Failure
+
+If the image recognition module fails to detect ingredients due to poor image quality or unsupported items, the system displays an error message and prompts 
+the user to upload a clearer image.
+
+Alternative Flow 4: Notification Delivery Failure
+
+If a system notification (such as recipe availability or upload confirmation) cannot be delivered due to technical issues, the system logs the failure and retries 
+sending the notification.
+
+Including these alternative flows improves the robustness, reliability, and user experience of the CookSnap system by ensuring proper handling of exceptional scenarios.
