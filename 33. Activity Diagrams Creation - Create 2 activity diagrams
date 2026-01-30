@@ -1,0 +1,24 @@
+Activity diagrams represent the workflow of actions performed by different actors in the system. For CookSnap – 
+Smart Recipe Recommendation System Using Grocery Images, activity diagrams are used to describe how users and administrators interact with the
+system during recipe recommendation and system management.
+
+Two activity diagrams are created:
+
+User Activity Flow
+
+Admin Workflow
+
+Activity Diagram 1: User Activity Flow
+
+This diagram illustrates the steps a user follows from opening the CookSnap application to viewing recipe recommendations.
+
+Description:
+The user opens the CookSnap application and uploads an image of available groceries. The system checks availability and processes the image. 
+Ingredients are detected from the image, after which suitable recipes are generated and displayed to the user. The process ends when the user views or selects a recipe.
+
+Activity Diagram 2: Admin Workflow
+
+This diagram explains how an administrator manages and monitors the CookSnap system.
+
+Description:
+The admin logs into the system using valid credentials. After successful authentication, the admin accesses the dashboard to view system statistics, manage recipes and users, generate reports, and review overall system performance. The workflow ends after administrative tasks are completed.
