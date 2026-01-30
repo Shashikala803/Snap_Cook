@@ -1,0 +1,53 @@
+Detailed Interaction Flow – Grocery Image Upload Process
+
+The user opens the CookSnap system and selects an option to upload a grocery image.
+
+The CookSnap system receives the request and validates the image format and size.
+
+The grocery image is successfully uploaded and stored in the system.
+
+The system confirms successful image upload.
+
+A confirmation message is displayed to the user.
+
+This interaction ensures that grocery images are uploaded in a secure and structured manner for further processing.
+
+Detailed Interaction Flow – Ingredient Detection Process
+
+The system analyzes the uploaded grocery image.
+
+The Image Recognition module processes the image.
+
+Detected food items are identified as ingredients.
+
+The identified ingredients are stored and prepared for recipe matching.
+
+This sequence ensures accurate detection of ingredients, forming the foundation for recipe recommendation.
+
+Detailed Interaction Flow – Recipe Recommendation Process
+
+The user requests recipe recommendations.
+
+The CookSnap system analyzes the detected ingredients.
+
+The Recipe Recommendation module matches ingredients with available recipes.
+
+Suitable recipes are generated based on ingredient availability.
+
+The system displays the list of recommended recipes to the user.
+
+This process helps users quickly decide what to cook using available groceries, saving time and reducing food wastage.
+
+Detailed Interaction Flow – Administrative System Monitoring Process
+
+The admin logs into the system using administrative credentials.
+
+The admin accesses the dashboard.
+
+The system collects usage data and system statistics.
+
+The Report module generates usage and performance reports.
+
+The admin reviews reports to monitor system usage and performance.
+
+This interaction supports system monitoring and data-driven decision making for effective administration of CookSnap.
