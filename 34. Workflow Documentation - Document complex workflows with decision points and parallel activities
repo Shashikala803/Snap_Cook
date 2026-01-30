@@ -1,0 +1,44 @@
+Workflow Documentation
+
+Workflow documentation explains complex system processes using clear steps, decision points, and system interactions. 
+It helps in understanding how different components of CookSnap – Smart Recipe Recommendation System Using Grocery Images work together in real-world usage scenarios.
+
+Workflow 1: End-to-End Recipe Recommendation Workflow
+
+The user opens the CookSnap application.
+
+The user uploads an image of available groceries.
+
+The system validates image format and system availability.
+
+The image is processed by the image recognition module.
+
+Ingredients are detected from the uploaded image.
+
+The system matches detected ingredients with the recipe database.
+
+Suitable recipes are generated based on ingredient availability.
+
+The recommended recipes are displayed to the user.
+
+The user selects a recipe to view detailed cooking instructions.
+
+This workflow ensures efficient meal planning, reduces food wastage, and provides a smooth user experience.
+
+Workflow 2: Administrative System Monitoring Workflow
+
+The admin logs into the CookSnap system using valid credentials.
+
+The system authenticates the admin and grants dashboard access.
+
+The admin views system usage statistics and activity data.
+
+The admin manages recipe data or user access if required.
+
+The system collects relevant usage information.
+
+The report module generates system performance reports.
+
+The admin reviews reports to analyze system usage and performance.
+
+This workflow supports effective system monitoring, maintenance, and data-driven decision making.
