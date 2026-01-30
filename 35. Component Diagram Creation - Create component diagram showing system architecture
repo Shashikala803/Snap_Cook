@@ -1,0 +1,34 @@
+Component Diagram
+
+The component diagram represents the high-level software architecture of CookSnap – Smart Recipe Recommendation System Using Grocery Images. 
+It illustrates how different system components interact with each other to deliver intelligent recipe recommendation functionality based on grocery images.
+
+Identified Components
+
+User Interface (Web / Mobile Application)
+Provides interfaces for users to upload grocery images, view detected ingredients, and see recipe recommendations, as well as for admins to access dashboards.
+
+Image Processing Module
+Handles image upload, validation, and preprocessing before ingredient detection.
+
+Ingredient Detection Module
+Uses image recognition techniques to identify grocery items from uploaded images.
+
+Recipe Recommendation Module
+Matches detected ingredients with available recipes and generates suitable recommendations.
+
+Notification Service
+Sends alerts or messages to users regarding successful uploads, recipe availability, or system responses.
+
+Authentication Module
+Manages secure login and access control for users and administrators.
+
+Reporting Module
+Generates basic usage and system performance reports for administrative monitoring.
+
+Database
+Stores user data, grocery images metadata, detected ingredients, recipes, and system logs.
+
+These components work together to ensure accurate ingredient detection, intelligent recipe recommendation, secure access, and efficient system operation.
+
+This component diagram highlights the modular structure of the CookSnap system and supports maintainability, scalability, and future enhancements.
