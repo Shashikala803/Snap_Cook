@@ -1,0 +1,23 @@
+Deployment Diagram
+
+The deployment diagram illustrates the physical environment in which CookSnap – Smart Recipe Recommendation System Using Grocery Images is deployed. 
+It shows the hardware nodes, their responsibilities, and the connections between them.
+
+Deployment Environment
+
+User Device (Mobile / Web Client)
+Used by users to upload grocery images, view detected ingredients, and access recipe recommendations through the CookSnap interface.
+
+Admin System
+Used by administrators to access the dashboard, manage system data, and view reports.
+
+Application Server
+Hosts the core application logic, including image processing, ingredient detection, recipe recommendation, authentication, and notification services.
+
+Database Server
+Stores user information, grocery image metadata, detected ingredients, recipes, and system logs.
+
+Network (Internet)
+Provides connectivity between user devices, admin systems, and backend servers for data exchange and system access.
+
+This deployment diagram highlights how CookSnap components are physically distributed and connected, ensuring scalability, security, and efficient system operation.
