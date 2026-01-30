@@ -1,0 +1,39 @@
+Design Document
+
+The design document explains the architectural and design decisions made during the development of CookSnap – Smart Recipe Recommendation System Using Grocery Images. The system is designed using a modular and layered architecture to improve maintainability, clarity, and scalability.
+
+Design Decisions
+
+A modular architecture is used to separate image processing, ingredient detection, recipe recommendation, notification handling, and reporting functionalities.
+
+UML diagrams are used to visually represent the system structure and behavior, supporting better understanding and documentation.
+
+Security is implemented through authentication and controlled access for users and administrators.
+
+A centralized database is used to maintain data consistency, integrity, and efficient data retrieval.
+
+Assumptions
+
+Users access the system through mobile devices or web browsers.
+
+Users have basic familiarity with digital applications.
+
+Internet connectivity is available for image processing and recipe retrieval.
+
+Limitations
+
+The system does not support online grocery purchasing or payment processing.
+
+Personalized dietary, nutritional, or medical recommendations are not provided.
+
+Integration with external food delivery platforms or smart kitchen appliances is not supported.
+
+Scalability Considerations
+
+The system can be extended to support a larger recipe database.
+
+Additional image recognition models can be integrated to improve ingredient detection accuracy.
+
+Notification mechanisms can be expanded to include email or push notifications.
+
+This design ensures that CookSnap meets its functional requirements while remaining simple, reliable, modular, and suitable for academic implementation, with scope for future enhancements.
